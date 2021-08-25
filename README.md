@@ -1,6 +1,6 @@
 # aplicacion_clientes
 
-A new Flutter project.
+subimos la primera version de los avanzes que hemos realizado para nuestra app de delivery del lado de nuestros clientes
 
 ## Getting Started
 
